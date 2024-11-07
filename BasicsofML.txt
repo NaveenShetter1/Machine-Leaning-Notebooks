@@ -4,4 +4,8 @@ over fitting occurs when ML algorithm works well in training data but poor perfo
 what is underfitting:-
 under fitting occurs when ML algorithm does not work well in both training data as well as in testing data, it is due to less data
 
-Lasso and ridge regression are regularization techniques that improve model prediction and interpretability by reducing model complexity and preventing overfitting. They are both used to handle multicollinearity and other data characteristics. 
+what is Lasso and ridge regression:-
+are regularization techniques that improve model prediction and interpretability by reducing model complexity and preventing overfitting. They are both used to handle multicollinearity and other data characteristics. 
+
+what is Feature scaling:-
+is a data preprocessing technique that transforms a dataset's numerical features into a common range or scale. The goal is to ensure that all features are treated equally by the model, which can lead to better performance.
