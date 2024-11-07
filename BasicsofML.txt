@@ -3,3 +3,5 @@ over fitting occurs when ML algorithm works well in training data but poor perfo
 
 what is underfitting:-
 under fitting occurs when ML algorithm does not work well in both training data as well as in testing data, it is due to less data
+
+Lasso and ridge regression are regularization techniques that improve model prediction and interpretability by reducing model complexity and preventing overfitting. They are both used to handle multicollinearity and other data characteristics. 
