@@ -1,1 +1,2 @@
-
+what is overfitting:-
+over fitting occurs when ML algorith works well in training data but poor performance during testing stage
