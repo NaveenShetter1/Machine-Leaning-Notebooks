@@ -1,2 +1,5 @@
 what is overfitting:-
-over fitting occurs when ML algorith works well in training data but poor performance during testing stage
+over fitting occurs when ML algorithm works well in training data but poor performance during testing stage
+
+what is underfitting:-
+under fitting occurs when ML algorithm does not work well in both training data as well as in testing data, it is due to less data
