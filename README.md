@@ -1,3 +1,3 @@
 # Machine-Leaning-Notebooks
 
-This has all my learnings which includes all ML model development code
+This has all my learnings algorithms with example which I have worked on
